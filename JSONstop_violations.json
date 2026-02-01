@@ -1,0 +1,54 @@
+[
+  {
+    "violation": "Speeding",
+    "count": 48463
+  },
+  {
+    "violation": "Other Traffic Violation",
+    "count": 16224
+  },
+  {
+    "violation": "Equipment/Inspection Violation",
+    "count": 11020
+  },
+  {
+    "violation": "unknown",
+    "count": 5333
+  },
+  {
+    "violation": "Registration Violation",
+    "count": 3432
+  },
+  {
+    "violation": "Seatbelt Violation",
+    "count": 2952
+  },
+  {
+    "violation": "Special Detail/Directed Patrol",
+    "count": 2455
+  },
+  {
+    "violation": "Call for Service",
+    "count": 1298
+  },
+  {
+    "violation": "Violation of City/Town Ordinance",
+    "count": 211
+  },
+  {
+    "violation": "Motorist Assist/Courtesy",
+    "count": 203
+  },
+  {
+    "violation": "APB",
+    "count": 79
+  },
+  {
+    "violation": "Suspicious Person",
+    "count": 56
+  },
+  {
+    "violation": "Warrant",
+    "count": 15
+  }
+]

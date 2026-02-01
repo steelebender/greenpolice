@@ -1,0 +1,22 @@
+[
+  {
+    "time": "Morning",
+    "count": 33137
+  },
+  {
+    "time": "Afternoon",
+    "count": 25634
+  },
+  {
+    "time": "Midnight",
+    "count": 14274
+  },
+  {
+    "time": "Evening",
+    "count": 9594
+  },
+  {
+    "time": "Night",
+    "count": 9102
+  }
+]

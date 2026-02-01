@@ -1,0 +1,30 @@
+[
+  {
+    "outcome": "Citation",
+    "count": 77006
+  },
+  {
+    "outcome": "unknown",
+    "count": 5333
+  },
+  {
+    "outcome": "Warning",
+    "count": 5294
+  },
+  {
+    "outcome": "Arrest Driver",
+    "count": 2571
+  },
+  {
+    "outcome": "N/D",
+    "count": 590
+  },
+  {
+    "outcome": "No Action",
+    "count": 589
+  },
+  {
+    "outcome": "Arrest Passenger",
+    "count": 358
+  }
+]

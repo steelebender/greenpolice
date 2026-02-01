@@ -1,0 +1,26 @@
+[
+  {
+    "race": "White",
+    "count": 62158
+  },
+  {
+    "race": "Black",
+    "count": 12244
+  },
+  {
+    "race": "Hispanic",
+    "count": 9507
+  },
+  {
+    "race": "unknown",
+    "count": 5333
+  },
+  {
+    "race": "Asian",
+    "count": 2259
+  },
+  {
+    "race": "Other",
+    "count": 240
+  }
+]

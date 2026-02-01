@@ -1,0 +1,22 @@
+[
+  {
+    "season": "Spring",
+    "count": 23206
+  },
+  {
+    "season": "Fall",
+    "count": 23049
+  },
+  {
+    "season": "Summer",
+    "count": 22813
+  },
+  {
+    "season": "Winter",
+    "count": 15521
+  },
+  {
+    "season": "Winter (Dec)",
+    "count": 7152
+  }
+]

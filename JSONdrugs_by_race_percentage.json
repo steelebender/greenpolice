@@ -1,0 +1,22 @@
+[
+  {
+    "race": "White",
+    "percentage": 58.4
+  },
+  {
+    "race": "Black",
+    "percentage": 24.66
+  },
+  {
+    "race": "Hispanic",
+    "percentage": 15.46
+  },
+  {
+    "race": "Asian",
+    "percentage": 1.35
+  },
+  {
+    "race": "Other",
+    "percentage": 0.12
+  }
+]
