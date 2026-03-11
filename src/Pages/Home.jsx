@@ -374,7 +374,7 @@ const Home = () => {
                 }) => {
                   const total = genderData.reduce(
                     (acc, curr) => acc + curr.count,
-                    0
+                    0,
                   );
                   const percent = ((value / total) * 100).toFixed(1);
 
@@ -411,7 +411,7 @@ const Home = () => {
                 formatter={(value, name) => {
                   const total = genderData.reduce(
                     (acc, curr) => acc + curr.count,
-                    0
+                    0,
                   );
                   const percent = ((value / total) * 100).toFixed(1);
                   return [`${percent}%`, name];
@@ -568,7 +568,7 @@ const Home = () => {
                 formatter={(value, name) => {
                   const total = speedingRaceData.reduce(
                     (acc, curr) => acc + curr.count,
-                    0
+                    0,
                   );
                   const percent = ((value / total) * 100).toFixed(1);
                   return [`${percent}%`, name];
@@ -689,7 +689,7 @@ const Home = () => {
                 formatter={(value, name) => {
                   const total = raceOutcomeData.reduce(
                     (acc, curr) => acc + curr.count,
-                    0
+                    0,
                   );
                   const percent = ((value / total) * 100).toFixed(1);
                   return [`${percent}%`, name];
@@ -711,7 +711,7 @@ const Home = () => {
 
       <footer className="footer">
         <p>&copy; 2025 Police Data Analysis Project</p>
-        <p>Clement A Arhin</p>
+        <p>Clement</p>
         <div className="socials">
           <span>🔗 GitHub</span>
           <span>🐦 Twitter</span>
