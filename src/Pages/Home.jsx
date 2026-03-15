@@ -711,7 +711,7 @@ const Home = () => {
 
       <footer className="footer">
         <p>&copy; 2025 Police Data Analysis Project</p>
-        <p>Clement</p>
+        <p>Steele Bender</p>
         <div className="socials">
           <span>🔗 GitHub</span>
           <span>🐦 Twitter</span>
